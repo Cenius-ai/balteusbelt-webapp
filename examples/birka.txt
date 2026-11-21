@@ -1,0 +1,15 @@
+# birka-file - a plain-text pattern file
+# Lines starting with # are comments; blank lines are ignored.
+name: birka-file
+description: Birka chevron from a text file
+weft: Wool
+turns: ffbbffbb
+card 1: Red White Red White
+card 2: White Black White Black
+card 3: Gold Red Gold Red
+card 4: Red White Red White
+card 5: White Black White Black
+card 6: Gold Red Gold Red
+# swap <pick> <card> <hole> <colour>; hole 1 is the face-up hole at threading
+swap 4 3 2 Blue
+swap 6 1 4 Gold
