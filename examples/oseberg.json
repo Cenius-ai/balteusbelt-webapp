@@ -1,0 +1,18 @@
+{
+  "name": "oseberg-file",
+  "description": "Oseberg repeat loaded from a JSON file",
+  "weft": "Linen",
+  "turns": "fbfb",
+  "threading": [
+    ["Red", "Ochre", "Blue", "White"],
+    ["Ochre", "Blue", "White", "Red"],
+    ["Blue", "White", "Red", "Ochre"],
+    ["White", "Red", "Ochre", "Blue"],
+    ["Red", "Ochre", "Blue", "White"],
+    ["Ochre", "Blue", "White", "Red"]
+  ],
+  "swaps": [
+    {"pick": 3, "card": 2, "hole": 1, "colour": "Green"},
+    {"pick": 4, "card": 6, "hole": 3, "colour": "Rust"}
+  ]
+}

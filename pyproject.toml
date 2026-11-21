@@ -1,0 +1,4 @@
+# BalteusBelt is a single standard-library script, not an installable package:
+# this file only configures the test runner.
+[tool.pytest.ini_options]
+testpaths = ["tests"]

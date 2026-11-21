@@ -1,0 +1,3 @@
+# BalteusBelt itself imports only the Python standard library.
+# This file exists for the development/test tooling only.
+pytest==8.4.2
